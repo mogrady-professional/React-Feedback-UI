@@ -13,7 +13,7 @@ Sample data retrieved from JSON file.
 # Application Images
 
 <p align="center" >
- <img src="images/capture.png"  height="auto" width="100%">
+ <img src="./images/capture.png"  height="auto" width="100%">
 </p>
 
 # Instructions
