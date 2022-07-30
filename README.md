@@ -20,7 +20,7 @@ Sample data retrieved from JSON file.
 
 - Clone repo
 - Install dependencies by running `npm install`
-- Run `rpm run start` to run the application in development mode
+- Run `npm start` to run the application in development mode
 
 # Packages
 
